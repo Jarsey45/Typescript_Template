@@ -4,7 +4,7 @@
 ## Install
 
 ```
-npm install 
+$ git clone https://github.com/Jarsey45/Typescript_Template directory_name
 ```
 
 ## Start
