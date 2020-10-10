@@ -13,7 +13,6 @@ $ git clone https://github.com/Jarsey45/Typescript_Template directory_name
 ```
 $ npm start 
 ```
-<<<<<<< HEAD
 #### or typescript watch
 ``` 
 $ npm run tsc-watch
