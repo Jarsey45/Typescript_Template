@@ -1,4 +1,4 @@
-class Anal {
+export class Anal {
   isKula: boolean
 
   constructor(isKula: boolean) {

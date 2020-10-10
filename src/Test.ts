@@ -1,8 +1,10 @@
 interface huge { }// :)
 
-class Test {
+export class Test {
   constructor(penis: huge) {
     console.log('aaa')
   }
 }
+
+
 

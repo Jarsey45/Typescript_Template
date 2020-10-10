@@ -4,10 +4,15 @@
   "description": "```\r npm install\r ```",
   "main": "index.html",
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "ts-loader": "^8.0.4",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "tsc -w"
+    "tsc-watch": "tsc -w",
+    "start": "webpack --mode development"
   },
   "author": "",
   "license": "ISC"
